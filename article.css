@@ -1,3 +1,45 @@
 body {
-	font-family: "Helvetica";
+	font-family: "-apple-system";
+	padding: 20px;
+	margin: 0;
+	font-size: 15px;
+}
+
+h1, h2, h3, h4, p {
+	padding: 20px 0;
+	margin: 0;
+}
+
+h1 {
+	font-size: 18px;
+}
+
+h2 {
+	font-size: 16px;
+	color: gray;
+}
+
+h3 {
+	font-size: 16px;
+	color: gray;
+}
+
+h4 {
+	font-size: 15px;
+	text-color: gray;
+}
+
+a {
+	color: #E6007E;
+}
+
+p {
+	font-size: 15px;	
+}
+
+button {
+	width: 100%;
+	border: 0;
+	background: white;
+	color: #E6007E;
 }
