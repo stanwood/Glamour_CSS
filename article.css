@@ -1,6 +1,6 @@
 body {
 	font-family: "-apple-system";
-	padding: 0;
+	padding: 20;
 	margin: 0;
 	font-size: 15px;
 }
@@ -12,18 +12,17 @@ h1, h2, h3, h4, p {
 }
 
 h1 {
-	font-size: 18px;
+	font-size: 20px;
 	color: #E6007E;
 }
 
 h2 {
-	font-size: 16px;
+	font-size: 18px;
 	color: gray;
 }
 
 h3 {
 	font-size: 16px;
-	color: gray;
 }
 
 h4 {
