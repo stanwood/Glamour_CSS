@@ -72,7 +72,8 @@ p:empty {
 	margin: 0;
 	margin-left: -16px;
 	margin-right: -16px;
-	margin-bottom: 8px;
+	margin-top: 16px;
+	margin-bottom: 16px;
 }
 
 .embed-container iframe {	
