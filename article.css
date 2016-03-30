@@ -39,14 +39,14 @@ a {
 	color: #E6007E;
 }
 
-p,i {
+p, body > i, body > a {
 	font-size: 15px;	
 	padding: 0;
 	margin: 0;
 	margin-bottom: 8px;
 }
 
-body > i {
+body > i, body > a{
 	display: block;
 }
 
